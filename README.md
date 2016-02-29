@@ -1,6 +1,8 @@
 # JS Theremin
 
-## What Is It
+[![](theremin.png)](http://tomhodgins.github.io/theremin/)
+
+## What Is It?
 
 A Theremin app built using JavaScript and HTML.
 
@@ -23,4 +25,4 @@ Due to design decisions at Apple, iOS users will have to add this app to their h
 
 ## Online Demo
 
-http://staticresource.com/theremin.html
+http://tomhodgins.github.io/theremin/
